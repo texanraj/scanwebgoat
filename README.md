@@ -1,2 +1,2 @@
-# scanwebgoat
-Scan WebGoat
+# Scan Webgoat
+Scan WebGoat using Trivy
